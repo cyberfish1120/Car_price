@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="zzq@10.1.18.13:22 password">
+  <component name="PublishConfigData" autoUpload="Always">
     <serverData>
       <paths name="ZZQ">
         <serverdata>
           <mappings>
             <mapping deploy="/data/zzq/PythonProject" local="$PROJECT_DIR$/../" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="zzq@10.1.18.13:22 password">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/tmp/pycharm_project_47" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
